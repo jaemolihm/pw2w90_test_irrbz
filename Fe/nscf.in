@@ -1,7 +1,7 @@
 &control
     calculation = 'nscf'
     prefix      = 'Fe'
-    pseudo_dir  = '~/PP/all/'
+    pseudo_dir  = '../pseudo/'
     outdir      = './temp/'
     verbosity = 'high'
 /

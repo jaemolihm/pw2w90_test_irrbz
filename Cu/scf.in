@@ -1,7 +1,7 @@
 &control
     calculation = 'scf'
     prefix      = 'Cu'
-    pseudo_dir  = '~/PP/all/'
+    pseudo_dir  = '../pseudo/'
     outdir      = './temp/'
     tstress     = .true.
     tprnfor     = .true.
