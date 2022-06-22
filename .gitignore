@@ -21,3 +21,6 @@ __pycache__
 UNK*
 */w90chk2chk.log
 CRASH
+*/*.amni
+*/*.mmni
+*/*.eigi
